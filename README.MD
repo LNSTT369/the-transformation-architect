@@ -1,4 +1,4 @@
-# Transformation Workspace
+# The Architect
 
 Metacognitive operating system for irreversible personal evolution.
 
