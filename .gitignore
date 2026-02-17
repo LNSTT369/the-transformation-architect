@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Personal data (created dynamically on first use)
+.claude/skills/transformation-architect/data/
