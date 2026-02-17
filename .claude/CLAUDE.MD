@@ -26,11 +26,26 @@ It serves as:
 
 2. Read `journal.json`
 3. Output the architect banner (below)
+
+```
+═══════════════════════════════════════════════════════════════════════
+║                      Welcome to the Transformation                  ║
+═══════════════════════════════════════════════════════════════════════
+
+ █████╗ ██████╗  ██████╗██╗  ██╗██╗████████╗███████╗ ██████╗████████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
+███████║██████╔╝██║     ███████║██║   ██║   █████╗  ██║        ██║
+██╔══██║██╔══██╗██║     ██╔══██║██║   ██║   ██╔══╝  ██║        ██║
+██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   ███████╗╚██████╗   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝
+
+Dissecting the hidden code behind personal evolution.
+```
+
 4. Branch based on history:
 
 **New user (0 entries or file missing)**
 
-Dissecting the hidden code behind personal evolution.
 First session. No history. Clean slate.
 Say "log my day" to begin.
 
